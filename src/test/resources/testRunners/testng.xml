@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG Regression Test Suite " verbose="4">
+
+<test name ="Amazon Test">
+
+<classes>
+
+<class name = "TestNG.AmazonTest"/>
+
+</classes>
+
+</test>
+
+
+<test name ="Google Test">
+
+<classes>
+
+<class name = "TestNG.GoogleTest"/>
+
+</classes>
+
+</test>
+
+<test name ="OrangeHrm Test">
+
+<classes>
+
+<class name = "TestNG.OrangeHRTest"/>
+
+</classes>
+
+</test>
+
+
+</suite>
+
