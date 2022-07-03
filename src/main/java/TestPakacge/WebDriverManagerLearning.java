@@ -14,7 +14,7 @@ public class WebDriverManagerLearning {
 		
 		WebDriverManager.chromedriver().setup(); // using the webDriver manager will allow us not to download the webDriver for any browser and we don't have to set the properties 
 		WebDriver driver = new ChromeDriver(); // in here we created an instance of a driver for the chrome browser so we can launch it 
-		String name ="david , this variable is create to not be used , it is for git commits practice only";
+		String name ="david123 , this variable is create to not be used , it is for git commits practice only";
 		
 		
 		
